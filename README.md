@@ -12,9 +12,9 @@ Three separate Streamlit web applications that visualise common neural network a
 
 | Activation | Deployed URL |
 |------------|--------------|
-| ReLU |(https://ai-labreport4-relu.streamlit.app/) |
-| Sigmoid |(https://ai-labreport4-sigmoid.streamlit.app/) |
-| Tanh | (https://ai-labreport4-tanh.streamlit.app/)|
+| ReLU |https://ai-labreport4-relu.streamlit.app/ |
+| Sigmoid |https://ai-labreport4-sigmoid.streamlit.app/ |
+| Tanh | https://ai-labreport4-tanh.streamlit.app/|
 
 ---
 
