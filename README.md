@@ -124,8 +124,3 @@ The app opens in your browser at `http://localhost:8501`.
 - [Matplotlib](https://matplotlib.org) for plotting
 - [scikit-learn](https://scikit-learn.org) for datasets and the `MLPClassifier`
 
----
-
-## Tags
-
-`streamlit` `neural-networks` `activation-functions` `relu` `sigmoid` `tanh` `deep-learning` `machine-learning` `python` `data-visualization`
