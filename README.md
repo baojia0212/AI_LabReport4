@@ -113,7 +113,7 @@ The app opens in your browser at `http://localhost:8501`.
 
 | ReLU | Sigmoid | Tanh |
 |------|---------|------|
-| ![ReLU](screenshots/relu.png) | ![Sigmoid](screenshots/sigmoid.png) | ![Tanh](screenshots/tanh.png) |
+| ![ReLU](screenshots/ReLU_3.png) | ![Sigmoid](screenshots/Sigmoid_3.png) | ![Tanh](screenshots/Tanh_3.png) |
 
 ---
 
