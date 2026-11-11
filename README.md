@@ -56,9 +56,9 @@ Each app has the same structure:
 
 ```
 .
-├── app_relu.py          # ReLU visualiser + neural network demo
-├── app_sigmoid.py       # Sigmoid visualiser + neural network demo
-├── app_tanh.py          # Tanh visualiser + neural network demo
+├── relu.py          # ReLU visualiser + neural network demo
+├── sigmoid.py       # Sigmoid visualiser + neural network demo
+├── tanh.py          # Tanh visualiser + neural network demo
 ├── requirements.txt     # Python dependencies
 ├── screenshots/         # App screenshots used in this README
 └── README.md
