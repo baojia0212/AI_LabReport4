@@ -78,7 +78,7 @@ Inside each app file:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone 
 cd YOUR-REPO
 
 # 2. (Optional) create a virtual environment
@@ -90,9 +90,9 @@ source venv/bin/activate     # macOS / Linux
 pip install -r requirements.txt
 
 # 4. Run any of the apps
-streamlit run app_relu.py
-streamlit run app_sigmoid.py
-streamlit run app_tanh.py
+streamlit run relu.py
+streamlit run sigmoid.py
+streamlit run tanh.py
 ```
 
 The app opens in your browser at `http://localhost:8501`.
@@ -103,9 +103,9 @@ The app opens in your browser at `http://localhost:8501`.
 
 1. Push this repository to GitHub.
 2. Sign in at [share.streamlit.io](https://share.streamlit.io) with your GitHub account.
-3. Click **Create app**, choose this repository and branch, and set the main file to `app_relu.py`.
+3. Click **Create app**, choose this repository and branch, and set the main file to `relu.py`.
 4. Click **Deploy**.
-5. Repeat for `app_sigmoid.py` and `app_tanh.py` to get three public URLs.
+5. Repeat for `sigmoid.py` and `tanh.py` to get three public URLs.
 
 ---
 
